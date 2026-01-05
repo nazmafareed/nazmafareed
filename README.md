@@ -1,8 +1,3 @@
-
-
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=200&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=60&animation=fadeIn" />
 </div>
@@ -26,16 +21,16 @@
 
 ### 🌐 Connect with Me:
 <div align="center">
-  <a href="https://facebook.com/Zunii Shiekh" target="_blank">
+  <a href="https://facebook.com/ZuniiSheikh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Nazma Fareed" target="_blank">
+  <a href="https://linkedin.com/in/NazmaFareed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/chatgpt" target="_blank">
+  <a href="https://instagram.com/NazmaSheikh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:nazmafareed00@gmail.com@openai.com">
+  <a href="mailto:nazmafareed00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -67,11 +62,11 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=100&section=footer" />
 </div>
 
 <p align="center">
@@ -79,5 +74,9 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=1F3B70&style=for-the-badge" alt="Profile Views" />
 </div>
+
+
+
+
