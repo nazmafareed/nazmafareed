@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
+  <h3> 💻 C++ & Python Learner | AI Enthusiast </h3>
 </div>
 
 ---
