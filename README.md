@@ -46,17 +46,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Analysis:
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmaFareedSheikh&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -70,7 +60,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NazmaFareedSheikh&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+
 </p>
 
 <div align="center">
