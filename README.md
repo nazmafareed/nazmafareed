@@ -1,74 +1,78 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=180&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=200&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=60&animation=fadeIn" />
 </div>
 
 <div align="center">
-### 🤖 AI Student | C++ & Python Developer | Tech Explorer
-</div>
-
----
-
-<!-- ================= CODING GIF ================= -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" />
+  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
 </div>
 
 ---
 
-## 👩‍💻 About Me
-- 🔹 I am currently working on **logic-based projects using C++ and Python**
-- 🔹 Passionate about **Artificial Intelligence and problem-solving**
-- 🔹 Interested in **open-source collaboration and learning-by-building**
-- 🔹 Continuously improving my **programming and analytical skills**
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
+* 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
+* 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
+* 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
+* 💬 Ask me about **Programming, Python, or AI technology**
+* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
 
 ---
 
+### 🌐 Connect with Me:
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" />
+  <a href="https://facebook.com/ZuniiSheikh" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/NazmaFareed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/NazmaSheikh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nazmafareed00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+### 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analysis:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazmaFareedSheikh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmaFareedSheikh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💬 Best Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/NazmaFareed" target="_blank">LinkedIn</a> •
-  <a href="mailto:nazmafareed00@gmail.com" target="_blank">Email</a> •
-  <a href="https://facebook.com/ZuniiSheikh" target="_blank">Facebook</a> •
-  <a href="https://www.tiktok.com/@zuniisheikh55" target="_blank">TikTok</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmaFareedSheikh&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=100&section=footer" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NazmaFareedSheikh&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NazmaFareedSheikh&color=1F3B70&style=for-the-badge" alt="Profile Views" />
 </div>
