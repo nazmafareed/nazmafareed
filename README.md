@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=200&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3B70&height=200&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=60&animation=fadeIn" />
 </div>
 
 <div align="center">
