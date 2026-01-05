@@ -1,18 +1,18 @@
 <!-- ================= HEADER ================= -->
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=190&section=header&text=Nazma%20Fareed%20Sheikh&fontSize=56&fontColor=FFFFFF&animation=fadeIn" />
-</div>
+</p>
 
 <!-- ================= NAME + ROLE ================= -->
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" />
-  <h2 style="color:#FFFFFF;">Nazma Fareed Sheikh</h2>
-  <h3 style="color:#38BDF8;">💻 C++ & Python Developer | AI Enthusiast</h3>
-</div>
+</p>
+
+<h2 align="center">Nazma Fareed Sheikh</h2>
+<h3 align="center">💻 C++ & Python Developer | AI Enthusiast</h3>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
 ### 👩‍💻 About Me
 I am a first-semester student passionate about programming and Artificial Intelligence.  
 I focus on creating clean, logic-driven solutions using **C++ and Python**.
@@ -24,7 +24,6 @@ I focus on creating clean, logic-driven solutions using **C++ and Python**.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
@@ -36,9 +35,8 @@ I focus on creating clean, logic-driven solutions using **C++ and Python**.
 
 ---
 
-<!-- ================= CONNECT WITH ME ================= -->
 ### 🌐 Connect with Me
-<div align="center">
+<p align="center">
   <a href="https://facebook.com/ZuniiSheikh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
@@ -51,11 +49,10 @@ I focus on creating clean, logic-driven solutions using **C++ and Python**.
   <a href="https://www.tiktok.com/@zuniisheikh55" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" />
   </a>
-</div>
+</p>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NazmaFareedSheikh&show_icons=true&theme=dark&hide_border=true" />
@@ -67,24 +64,18 @@ I focus on creating clean, logic-driven solutions using **C++ and Python**.
 
 ---
 
-<!-- ================= BEST QUOTE ================= -->
-<div align="center">
+### 💬 Best Quote
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-</div>
+</p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
-</div>
-
-<!-- ================= PROFILE VIEWS ================= -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NazmaFareedSheikh&color=000000&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<!-- ================= TROPHIES ================= -->
+### 🏆 Trophies & Profile Views
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NazmaFareedSheikh&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NazmaFareedSheikh&theme=tokyonight&no-bg=true&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NazmaFareedSheikh&color=000000&style=for-the-badge" alt="Profile Views" />
 </p>
