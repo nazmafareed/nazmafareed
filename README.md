@@ -14,7 +14,6 @@
 * 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
 * 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
 * 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
-* 💬 Ask me about **Programming, Python, or AI technology**
 * ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
 
 ---
@@ -43,7 +42,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 
