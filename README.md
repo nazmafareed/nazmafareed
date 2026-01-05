@@ -51,19 +51,18 @@
 ### 📊 GitHub Analysis:
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmaFareedSheikh&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmaFareedSheikh&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay
-  " />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
 </div>
 
 <div align="center">
@@ -71,11 +70,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chatgpt&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NazmaFareedSheikh&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=1F3B70&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NazmaFareedSheikh&color=1F3B70&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
