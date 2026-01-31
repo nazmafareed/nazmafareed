@@ -58,18 +58,27 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://facebook.com/ZuniiSheikh" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-ZuniiSheikh-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1DTmQPSTMN/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nazmafareed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nazma%20Fareed-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nazma-fareed-34438a3a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- TikTok -->
   <a href="https://www.tiktok.com/@zuniisheikh55" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-zuniisheikh55-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:nazmafareed00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nazmafareed00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 ### 📊 GitHub Stats
